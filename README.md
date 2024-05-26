@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashwanth.K</h1>
 <h3 align="center">Aspiring Front-End Web Developer And Passionate About Data Science from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif"
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif"
   
 - 🔭 I’m currently working on **project based on JavaScript and React**
 - 🌱 I’m currently learning **JavaScript and React**
